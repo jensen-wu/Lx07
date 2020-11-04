@@ -1,2 +1,0 @@
-# LX07
-WorkInfo
